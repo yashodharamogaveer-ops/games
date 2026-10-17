@@ -1,0 +1,6 @@
+{
+  "name": "Hacker's Trap: The Last Exit",
+  "description": "A high-stakes 3D first-person escape thriller game featuring procedural puzzles, a dynamic floor plan map, six distinct security doors, and a patrolling hacker AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
